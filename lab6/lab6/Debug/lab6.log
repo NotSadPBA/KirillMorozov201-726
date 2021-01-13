@@ -1,0 +1,5 @@
+﻿  lab6.c
+C:\Users\storm\Desktop\NotSadInFckLife\Учёба\Проекты\lab6\lab6\lab6.c(40,53): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\storm\Desktop\NotSadInFckLife\Учёба\Проекты\lab6\lab6\lab6.c(48,22): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\storm\Desktop\NotSadInFckLife\Учёба\Проекты\lab6\lab6\lab6.c(49,34): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  lab6.vcxproj -> C:\Users\storm\Desktop\NotSadInFckLife\Учёба\Проекты\lab6\Debug\lab6.exe

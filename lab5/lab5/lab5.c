@@ -35,5 +35,5 @@ int main()
 	printf("Длины отрезков AC, BC и их сумма:\n%d\n%d\n%d\n", ac, bc, sumot);
 	printf("Произведение длин отрезков AC и BC\n", proizot);
 	printf("Периметр и площадь прямоугольника:\n%d\n%d\n", perimetr, ploshad);
-	printf("Периметр и площвдь треугольника:\n%d\n%d\n", P, S);
+	printf("Периметр и площадь треугольника:\n%d\n%d\n", P, S);
 }

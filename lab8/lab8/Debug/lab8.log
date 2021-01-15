@@ -1,0 +1,4 @@
+﻿  lab8.c
+C:\Users\storm\Desktop\NotSadInFckLife\Учёба\Проекты\lab8\lab8\lab8.c(21,9): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "div_t"
+C:\Users\storm\Desktop\NotSadInFckLife\Учёба\Проекты\lab8\lab8\lab8.c(27,1): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  lab8.vcxproj -> C:\Users\storm\Desktop\NotSadInFckLife\Учёба\Проекты\lab8\Debug\lab8.exe
